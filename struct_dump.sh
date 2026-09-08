@@ -24,9 +24,9 @@ all_phpvs=(
     php-7.3.33
     php-7.4.33
     php-8.0.30
-    php-8.1.28
-    php-8.2.18
-    php-8.3.6
+    php-8.1.34
+    php-8.2.33
+    php-8.3.33
     php-8.4.25
     php-8.5.10
     master
